@@ -1,4 +1,4 @@
-![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png)
+![DC Banner](https://www.nextibs.com/wp-content/uploads/2021/12/seguridad-informatica-1024x439.jpeg)
 <h1 align="center">Hi there! 👋, I'm Yaseth</h1>
 <h3 align="center">I am a telecommunications engineering student from Peru.</h3>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Maths and Networking**
 
-- 📫 You can reach me as **alecarp0304@gmail.com**
+- 📫 You can reach me as **paccoyeremi@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
